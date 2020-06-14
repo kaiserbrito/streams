@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "great stream",
+      "id": 1
+    },
+    {
+      "title": "Stream with id",
+      "description": "this stream was created with id",
+      "userId": "115187493633516452294",
+      "id": 2
+    },
+    {
+      "title": "New stream with navigation",
+      "description": "navigation to home",
+      "userId": "115187493633516452294",
+      "id": 3
+    }
+  ]
+}

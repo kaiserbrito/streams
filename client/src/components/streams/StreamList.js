@@ -1,7 +1,6 @@
 import React from "react";
 
-const StreamList = () => {
-  return <div>StreamList</div>;
+class StreamList extends React.Component {
 };
 
 export default StreamList;
